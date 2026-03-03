@@ -7,10 +7,10 @@ A structured collection of essential Binary Tree (BT) and Binary Search Tree (BS
 ## 📚 Contents
 
 1. [Structural Validation](./6.%20Structural%20Validation.md)
-2. [Root → Leaf Problems](./1.%20Root%20-%20Leaf.md)
+2. [Root → Leaf Problems](./1.%20Root-%3E%20Leaf.md)
 3. [Leaf → Leaf Problems](./2.%20Leaf%20-%20Leaf.md)
-4. [Any → Any (Sum)](./3.%20Any%20-%20Any(Sum).md)
-5. [Any → Any (Count)](./4.%20Any%20-%20Any(Count).md)
+4. [Any → Any (Sum)](./3.%20Any%20-%3E%20Any(Sum).md)
+5. [Any → Any (Count)](./4.%20Any%20-%3E%20Any(Count).md)
 6. [Count Pattern](./5.%20Count%20Pattern.md)
 7. [LCA Problems](./7.%20LCA%20problems.md)
 8. [BST](./8.%20BST.md)
