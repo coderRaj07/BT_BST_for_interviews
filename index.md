@@ -6,16 +6,16 @@ A structured collection of essential Binary Tree (BT) and Binary Search Tree (BS
 
 ## 📚 Contents
 
-1. [Structural Validation](./6.%20Structural%20Validation.md)
-2. [Root → Leaf Problems](./1.%20Root-%3E%20Leaf.md)
-3. [Leaf → Leaf Problems](./2.%20Leaf%20-%20Leaf.md)
-4. [Any → Any (Sum)](./3.%20Any%20-%3E%20Any(Sum).md)
-5. [Any → Any (Count)](./4.%20Any%20-%3E%20Any(Count).md)
-6. [Count Pattern](./5.%20Count%20Pattern.md)
-7. [LCA Problems](./7.%20LCA%20problems.md)
-8. [BST](./8.%20BST.md)
-9. [BFS and Views](9.%20BFS%20and%20Views.md)
-10. [Tree Construction](./10.%20Tree%20construction.md)
+1. [Root → Leaf Problems](1.root_to_root.md)
+2. [Leaf → Leaf Problems](2.leaf_to_leaf.md)
+3. [Any → Any (Sum)](3.any_to_any_sum.md)
+4. [Any → Any (Count)](4.any_to_any_count.md)
+5. [Count Pattern](5.count_problems.md)
+6. [Structural Validation](6.structural_validations.md)
+7. [LCA Problems](7.lca_problems.md)
+8. [BST](8.bst.md)
+9. [BFS and Views](9.bfs_and_views.md)
+10. [Tree Construction](10.tree_construction.md)
 
 ---
 
