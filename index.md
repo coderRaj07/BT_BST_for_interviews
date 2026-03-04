@@ -6,7 +6,7 @@ A structured collection of essential Binary Tree (BT) and Binary Search Tree (BS
 
 ## 📚 Contents
 
-1. [Root → Leaf Problems](1.root_to_root.md)
+1. [Root → Leaf Problems](1.root_to_leaf.md)
 2. [Leaf → Leaf Problems](2.leaf_to_leaf.md)
 3. [Any → Any (Sum)](3.any_to_any_sum.md)
 4. [Any → Any (Count)](4.any_to_any_count.md)
