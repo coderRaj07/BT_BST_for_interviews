@@ -14,7 +14,7 @@ A structured collection of essential Binary Tree (BT) and Binary Search Tree (BS
 6. [Count Pattern](./5.%20Count%20Pattern.md)
 7. [LCA Problems](./7.%20LCA%20problems.md)
 8. [BST](./8.%20BST.md)
-9. [BFS and Views](./9.%20BFS%20and%20Views.md)
+9. [BFS and Views](9.%20BFS%20and%20Views.md)
 10. [Tree Construction](./10.%20Tree%20construction.md)
 
 ---
